@@ -46,6 +46,9 @@ Dibawah ini merupakan struktur umum dari scanner sidik jari dimana sebuah sensor
 Jari menyentuh sisi atas dari kaca prisma, tapi ridges mulai bersentuhan dengan permukaan prisma, bekas valley pada jarak pasti. Pada sisi kiri prisma menerangi melalui suatu cahaya yang menyebar. Cahaya masuk ke prisma dicerminkan pada valley, dan secara acak  menyebar (menyerap) pada ridges. Pantulan yang kurang memberikan ridges menjadi berbeda-beda dari valleys. Sinar cahaya keluar dari sisi kanan prisma dan fokus melaui lensa diatas CCD atau CMOS sensor gambar. Karena alat FTIR berguna untuk permukaan 3 dimensi, ini tidak dapat dengan mudah menipu pemberian foto atau cetak gambar dari sidik jari. Ketika jari sangat kering, itu tidak dapat membuat kontak yang sama dengan permukaan sensor. Memperbaiki pembentukan sidik jari dari jari yang kering yang mana ridge tidak mengandung partikel keringat, beberapa penghasil scanner menggunakan lapisan 
 silikon yang menyerupai kontak dari permukaan dengan prisma. Dengan tujuan mengurangi biaya dari alat optik, plastik pada saat sekarang sering kali digunakan dibandingkan kaca prisma, dan lensa. 
 
+<p align="center">
+<img src="gambar1.png" width="500">
+</p>
 
 Dimana seperti pada percobaan Newton menjelaskan bahwa cahaya putih 
 (polikromatis) bila dilewatkan terhadap prisma akan mengalami gejala disperse yaitu gejala peruraian cahaya putih menjadi cahaya monokromatik (merah, jingga, kuning, hijau, biru, nila, dan ungu), cahaya-cahaya ini memiliki panjang gelombang yang berbeda. Setiap panjang gelombang memiliki indeks bias yang berbeda. Semakin kecil panjang gelombangnya semakin besar indeks biasnya. Dispersi pada prisma terjadi karena adanya perbedaan indeks bias kaca setiap warna cahaya Menggunakan lembaran prima membuat angka dari “primslets” 
@@ -58,6 +61,36 @@ Proses pencocokan sidik jari adalah melalui beberapa tahap diantaranya:
 4. Normallisasi
 5. Proses penghitungan vector ciri 
 6. Pencocokan Sidik Jari
+
+
+#### 4. Fungsi *Fingerprint
+Fingerprint pada umumnya memiliki fungsi seperti kata sandi dan pola yaitu untuk menjamin keamanan dan berfungsi sebagai media verifikasi, hanya saja media verifikasi yang digunakan pada teknologi fingerprint adalah sidik jari manusia itu sendiri yang tidak mudah untuk dipalsukan dan diakses oleh orang lain. Berikut ini merupakan beberapa fungsi fingerprint:
+1. **Fingerprint untuk membuka smartphone**
+   Sistem perlindungan ponsel klasik selalu berupa kode sandi empat digit. Ini bukan metode otentikasi yang aman, terutama sekarang karena kami menyimpan lebih banyak barang di dalam ponsel kami (kartu kredit, akses bank, media sosial, dll). Baik sidik jari maupun pengenalan wajah sekarang banyak digunakan di ponsel.
+2. **Fingerprint untuk melakukan absensi**
+   Sensor fingerprint biasanya juga berfungsi sebagai alat absensi pada karyawan di berbagai perusahaan tertentu. Penggunaan sensor fingerprint dinilai tidak dapat dipalsukan dan tidak dapat diwakilkan sehingga rasa tanggung jawab dan disiplin para karyawan lebih meningkat.
+3. **Fingerprint untuk membuka pintu**
+   Cara biasa untuk masuk ke kamar adalah dengan menggunakan kunci, yang memiliki kelemahan mudah hilang atau dicuri.Berkat biometrik sidik jari, anda bisa menggunakan sidik jari anda untuk membuka kunci pintu sehingga tingkat keamanan akan lebih tinggi.
+4. **Fingerprint untuk melakukan pembayaran**
+   Masalah di Uni Eropa adalah tidak ada database publik untuk mencocokkan sidik jari dan memverifikasi identitas seseorang secara real time. Namun, ada beberapa negara di Amerika Latin di mana, karena tingkat penipuan dan penipuan yang tinggi, mereka mengizinkan pencocokan ini dilakukan dan ada perusahaan yang mengkhususkan diri dalam hal ini.Akibatnya, sekarang dimungkinkan untuk menggunakan sidik jari Anda sebagai metode pembayaran, tanpa perlu membawa uang tunai atau kartu kredit. Sistem ini diterapkan dua tahun lalu di Venezuela, ideal untuk kasus ini karena pengenalan biometrik sebelumnya telah digunakan, misalnya dalam pemungutan suara elektronik atau identifikasi di ATM.
+5. **Fingerprint digunakan sebagai alat bukti yang sah dalam verifikasi identitas**
+   Sidik jari dapat digunakan untuk memverifikasi identitas orang tersebut dalam proses penandatanganan untuk memberikan keamanan yang lebih besar dan validitas hukum untuk kontrak yang bersangkutan. Tujuan dari pembuktian hukum adalah untuk mengamankan seluruh proses. Untuk itu, disarankan untuk menambahkan beberapa bukti hukum untuk memperkuat proses ini, seperti sidik jari atau SMS OTP yang dikirimkan ke ponsel penanda tangan.Sidik jari digunakan untuk memastikan identifikasi individu yang sempurna, karena unik dan tidak dapat ditransfer. Dengan demikian, memenuhi persyaratan untuk dianggap sebagai tanda tangan elektronik tingkat lanjut, sepenuhnya legal.
+
+   
+   
+#### 5. Kelebihan *Fingerprint*
+1. **Memiliki tingkat keamanan yang tinggi**
+   Tidak semua orang di dunia memiliki pola yang sama pada sidik jarinya. Jika Anda menggunakan sistem keamanan sidik jari, Anda dapat yakin bahwa sistem keamanan tetap terjaga karena hanya Anda yang dapat mengaksesnya.
+   
+2. **Privasi data menjadi lebih aman**
+   Beberapa smartphone yang memasang fitur fingerprint juga dapat Anda gunakan untuk mengakses beberapa data atau dokumen penting yang ada pada smartphone. Data-data atau dokumen penting tersebut akan tersimpan lebih aman karena hanya Anda yang dapat membukanya.
+
+#### 6. Kekurangan *Fingerprint*
+1. **Memungkinkan adanya duplikasi jari**
+   Sidik jari seseorang memang sangat sulit untuk ditiru atau diduplikasi, namun bukan tidak mungkin jika sidik jari Anda dapat diduplikasi oleh orang lian. Oleh karena itu Anda juga perlu berhati-hati karena pada saat ini beberapa cara dapat dilakukan untuk menggandakan sidik jari seseorang. Misalnya dengan mengambil gambar pola sidik jari orang lain dan mencetaknya dalam resolusi tinggi.
+
+2. **Bersifat Permanen**
+   Sidik jari yang Anda gunakan pada smartphone Anda secara otomatis akan langsung tersimpan dan tidak dapat diubah atau bersifat permanen. Maka secara otomatis apabila sidik jari Anda berhasil dicuri atau diduplikasi oleh orang yang tak bertanggung jawab, maka orang tersebut akan bebas mengakses semua data yang ada pada smartphone Anda.
 
 #### 7. Jenis Jenis Sensor pengenalan sidik jari
 Ada empat jenis utama perangkat keras pembaca sidik jari:
