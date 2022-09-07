@@ -1,8 +1,6 @@
 <h2 align="center">PENGENALAN SIDIK JARI</h2>
 
-<p align="center">
-<img src="logo_ULM.png" width="200">
-</p>
+<p align="center"><img src="logo_ULM.png" width="200"></p>
 
 
 Mata kuliah : Pemrosesan Citra Digital
