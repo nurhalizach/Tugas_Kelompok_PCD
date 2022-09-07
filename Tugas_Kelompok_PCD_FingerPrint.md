@@ -39,7 +39,7 @@ Walaupun sidik jari telah dipelajari selama bertahun – tahun, baru pada tahun 
 Menurut Myers (1942:18), bencana pertama Amerika Serikat dimana individualisasi sidik jari berperan utama ketika USS Squalus tenggelam pada 23 Mei 1939. Kapal selam tersebut tenggelam ke dasar laut dengan kedalaman 240 kaki. James Herbert Taylor, pempimpin di divisi identifikasi angkatan laut Amerika Serikat, melakukan operasi identifikasi. Semua mayat diidentifikasi menggunakan sidik jari.
 
 
-#### 3. Cara Kerja Fingerprint
+#### 3. Cara Kerja *Fingerprint*
 
 Dibawah ini merupakan struktur umum dari scanner sidik jari dimana sebuah sensor membaca permukaan jari dan merubah pembacaan analog kedalam digital melalui sebuah A/D konverter (Analog ke Digital), sebuah modul interface bertanggung jawab untuk berkomunikas (mengirim gambar, menerima perintah, dan sebagainya) dengan alat luar (personal computer / PC).
 
@@ -63,7 +63,7 @@ Proses pencocokan sidik jari adalah melalui beberapa tahap diantaranya:
 6. Pencocokan Sidik Jari
 
 
-#### 4. Fungsi *Fingerprint
+#### 4. Fungsi *Fingerprint*
 Fingerprint pada umumnya memiliki fungsi seperti kata sandi dan pola yaitu untuk menjamin keamanan dan berfungsi sebagai media verifikasi, hanya saja media verifikasi yang digunakan pada teknologi fingerprint adalah sidik jari manusia itu sendiri yang tidak mudah untuk dipalsukan dan diakses oleh orang lain. Berikut ini merupakan beberapa fungsi fingerprint:
 1. **Fingerprint untuk membuka smartphone**
    Sistem perlindungan ponsel klasik selalu berupa kode sandi empat digit. Ini bukan metode otentikasi yang aman, terutama sekarang karena kami menyimpan lebih banyak barang di dalam ponsel kami (kartu kredit, akses bank, media sosial, dll). Baik sidik jari maupun pengenalan wajah sekarang banyak digunakan di ponsel.
