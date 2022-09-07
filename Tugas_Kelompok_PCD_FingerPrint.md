@@ -10,8 +10,8 @@ Dosen Pengampu :
 * Novan Alkaf B. S. S.Kom., M.T
   
 Anggota kelompok: 
-* [Maisya Puspita Sari](https://github.com/maisyaapuspitaa)
-* [Nurhaliza](https://github.com/nurhalizach)
+* [Maisya Puspita Sari](https://github.com/maisyaapuspitaa)    2110131320006
+* [Nurhaliza](https://github.com/nurhalizach)  2110131120007
   
   ---
 #### 1. Pengertian pengenalan sidik jari
@@ -37,6 +37,27 @@ Menurut Ashbaugh (1999:38), sejak abad ke-17 ilmuwan  Eropa mulai mempublikasika
 Walaupun sidik jari telah dipelajari selama bertahun – tahun, baru pada tahun 1788 dikenal keunikan dari sidik jari ini di Eropa. Welker mulai mencetak tangan kanannya sendiri pada tahun 1856 dan kemudian pada tahun 1897, sehingga mendapatkan predikat sebagai orang pertama yang memulai pembelajaran sidik jari secara permanen. Menurut Lambourne (1984:58-59), kasus pembunuhan Rojas adalah kasus pembunuhan pertama yang diselesaikan dengan bukti sidik jari, dan Argentina menjadi negara perama yang mengandalkan sidik jari sebagai metode individualisasi.
 
 Menurut Myers (1942:18), bencana pertama Amerika Serikat dimana individualisasi sidik jari berperan utama ketika USS Squalus tenggelam pada 23 Mei 1939. Kapal selam tersebut tenggelam ke dasar laut dengan kedalaman 240 kaki. James Herbert Taylor, pempimpin di divisi identifikasi angkatan laut Amerika Serikat, melakukan operasi identifikasi. Semua mayat diidentifikasi menggunakan sidik jari.
+
+
+#### 3. Cara Kerja Fingerprint
+
+Dibawah ini merupakan struktur umum dari scanner sidik jari dimana sebuah sensor membaca permukaan jari dan merubah pembacaan analog kedalam digital melalui sebuah A/D konverter (Analog ke Digital), sebuah modul interface bertanggung jawab untuk berkomunikas (mengirim gambar, menerima perintah, dan sebagainya) dengan alat luar (personal computer / PC).
+
+Jari menyentuh sisi atas dari kaca prisma, tapi ridges mulai bersentuhan dengan permukaan prisma, bekas valley pada jarak pasti. Pada sisi kiri prisma menerangi melalui suatu cahaya yang menyebar. Cahaya masuk ke prisma dicerminkan pada valley, dan secara acak  menyebar (menyerap) pada ridges. Pantulan yang kurang memberikan ridges menjadi berbeda-beda dari valleys. Sinar cahaya keluar dari sisi kanan prisma dan fokus melaui lensa diatas CCD atau CMOS sensor gambar. Karena alat FTIR berguna untuk permukaan 3 dimensi, ini tidak dapat dengan mudah menipu pemberian foto atau cetak gambar dari sidik jari. Ketika jari sangat kering, itu tidak dapat membuat kontak yang sama dengan permukaan sensor. Memperbaiki pembentukan sidik jari dari jari yang kering yang mana ridge tidak mengandung partikel keringat, beberapa penghasil scanner menggunakan lapisan 
+silikon yang menyerupai kontak dari permukaan dengan prisma. Dengan tujuan mengurangi biaya dari alat optik, plastik pada saat sekarang sering kali digunakan dibandingkan kaca prisma, dan lensa. 
+
+
+Dimana seperti pada percobaan Newton menjelaskan bahwa cahaya putih 
+(polikromatis) bila dilewatkan terhadap prisma akan mengalami gejala disperse yaitu gejala peruraian cahaya putih menjadi cahaya monokromatik (merah, jingga, kuning, hijau, biru, nila, dan ungu), cahaya-cahaya ini memiliki panjang gelombang yang berbeda. Setiap panjang gelombang memiliki indeks bias yang berbeda. Semakin kecil panjang gelombangnya semakin besar indeks biasnya. Dispersi pada prisma terjadi karena adanya perbedaan indeks bias kaca setiap warna cahaya Menggunakan lembaran prima membuat angka dari “primslets” 
+berdampingan. Dibandingkan dari prisma satu yang besar, membolehkan ukuran dari kumpulan mesin untuk dikurangi beberapa tingkat. Sesungguhnya sekalipun sisa lintasan optik sama, lembaran prisma hampir datar. Bagaimanapun, kualitas dari perolehan gambar secara umum rendah dibandingkan teknik tradisional FTIR menggunakan kaca prisma.
+
+Proses pencocokan sidik jari adalah melalui beberapa tahap diantaranya: 
+1. Proses pendeteksian titik referensi 
+2. Penentuan titik ROI
+3. Sektorisasi 
+4. Normallisasi
+5. Proses penghitungan vector ciri 
+6. Pencocokan Sidik Jari
 
 #### 7. Jenis Jenis Sensor pengenalan sidik jari
 Ada empat jenis utama perangkat keras pembaca sidik jari:
